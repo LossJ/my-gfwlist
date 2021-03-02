@@ -1,7 +1,7 @@
 # gfwlist
 
 ## Setup
-https://github.com/lossj/gfwlist/raw/master/gfwlist.txt
+https://raw.githubusercontent.com/LossJ/my-gfwlist/main/gfwlist.txt
 
 ## Report
 1. clone this repository;
