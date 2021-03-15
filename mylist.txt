@@ -68,3 +68,6 @@
 ||18comic.org
 ||astatic.com
 ||com.hk
+||ifixit.com
+||rogueamoeba.com
+||bintray.com
